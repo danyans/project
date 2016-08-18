@@ -4,3 +4,5 @@ Git has a mutable stage called Index.
 Git track changes of files.
 Create a new branch is quick.
 Fast-forward.
+You can study git on Linux.
+today is 03/03/2016
